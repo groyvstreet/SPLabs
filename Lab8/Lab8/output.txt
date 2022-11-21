@@ -1,0 +1,28 @@
+System:	REG_SZ	AT/AT COMPATIBLE
+0:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+1:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+2:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+3:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+4:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+5:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+6:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+7:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+0:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+1:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+2:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+3:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+4:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+5:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+6:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+7:	REG_SZ	AMD64 Family 23 Model 24 Stepping 1
+0:	REG_SZ	ISA
+0:	REG_SZ	230be230-00000000-A
+0:	REG_SZ	UNKNOWN_KEYBOARD
+1:	REG_SZ	ACPI BIOS
+2:	REG_SZ	PCI
+3:	REG_SZ	PCI
+4:	REG_SZ	PCI
+5:	REG_SZ	PCI
+6:	REG_SZ	PCI
+7:	REG_SZ	PCI
+Logical Unit Id 0:	REG_SZ	NVMe    HFM256GDJTNG-8311C00
